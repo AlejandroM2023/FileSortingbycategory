@@ -4,23 +4,24 @@
 
 In this C++ applicating, the user is prompted to enter a file name which contains a category on one line followed by a word on the line below that one. This pattern continues all through the file and categories can repeat. 
 The program then uses a linked list to sort all the lines to the respective categories and prints out the category name followed by all the text from the lines that had that category above them.
-ex
-food
-sandwhich
-cars
-300zx
-cars
-ford fiesta
-food
-hotdog
-output:
-  food
-    sandwhich
-    hotdog
-  cars
-    300zx
-    ford fiesta
-N/A
+
+ex\
+food\
+sandwhich\
+cars\
+300zx\
+cars\
+ford fiesta\
+food\
+hotdog\
+\
+output:\
+  food\
+    sandwhich\
+    hotdog\
+  cars\
+    300zx\
+    ford fiesta\
 
 ## Usage
 
